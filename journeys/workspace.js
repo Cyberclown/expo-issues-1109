@@ -62,7 +62,7 @@ export default class Workspace extends React.Component {
       })
       this.props.navigation.dispatch(resetAction)
 
-      this.setState({ isLogoutButtonActive: true });
+      //this.setState({ isLogoutButtonActive: true });
 
     }).catch((e)=>{
       console.error(e);
