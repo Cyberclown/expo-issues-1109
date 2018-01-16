@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "expo-issues-1109",
+    "description": "Sample App to investigate navigation issue when using AuthSession",
+    "slug": "1109",
+    "privacy": "unlisted",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#36454f",
+    "icon": "./assets/icons/app-icon.png",
+    "notification": {
+      "icon": "./assets/icons/notification-icon.png",
+      "color": "#36454f"
+    },
+    "loading": {
+      "backgroundColor": "#36454f",
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf"]
+    },
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}

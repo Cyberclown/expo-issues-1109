@@ -1,0 +1,1 @@
+export {default as IdentityDP} from './dataprovider/identity';
